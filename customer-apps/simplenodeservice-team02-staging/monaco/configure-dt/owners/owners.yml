@@ -17,7 +17,7 @@ configs:
       lineOfBusiness: false
       slackChannel: somewhere
       slackURL: https://somewhere.slack.com/archives/team02
-      email: team02@example.com
+      email: team02@dynatrace.com
       addInfoKey: costcode
       addInfoValue: team02
       addInfoUrl: https://example.com/team02
